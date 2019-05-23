@@ -21,7 +21,7 @@ Work in progress
 1. Work in progress
 2. Work in progress
 
-**Work in progress** and Work in progress and `Work in progress` text
+**Work in progress** and _Work in progress_ and `Work in progress` text
 
 [Link](url) and ![Image](src)
 ```
