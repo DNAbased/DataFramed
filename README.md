@@ -1,4 +1,6 @@
-## Work in progress
+## DataFramed
+
+Python? R? Both?
 
 Work in progress [Work in progress](https://github.com/DNAbased/DataFramed/edit/master/README.md) Work in progress.
 
