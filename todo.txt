@@ -1,5 +1,5 @@
 DONE - Initializing data (creating or reading dataframes)
-- Accessing columns/rows/cells(values)
+DONE - Accessing columns/rows/cells(values)
 - Type conversions of columns/rows/cells?
 - Plotting data (scatterplot, barplot, histogram, boxplot, lineplot)
 - For loops
