@@ -1,3 +1,4 @@
+- Initializing data (creating or reading dataframes)
 - Accessing columns/rows/cells(values)
 - Type conversions of columns/rows/cells?
 - Plotting data (scatterplot, barplot, histogram, boxplot, lineplot)
