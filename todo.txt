@@ -1,0 +1,10 @@
+- Accessing columns/rows/cells(values)
+- Type conversions of columns/rows/cells?
+- Plotting data (scatterplot, barplot, histogram, boxplot, lineplot)
+- For loops
+- While loops
+- If-else if/elif-else
+- Functions
+- Filtering data
+- Adding new data
+- Merging dataframes (simple binding or specific joining)
