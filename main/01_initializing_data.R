@@ -18,6 +18,7 @@ dt <- data.table('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'),
 # Using base and/or tidyverse functions
 library(tidyverse)
 df <- read.delim('01_data_set.tsv')
+
 df <- read_tsv('01_data_set.tsv')
 
 # Using the data.table package
@@ -29,6 +30,7 @@ dt <- fread('01_data_set.tsv')
 # Using base and/or tidyverse functions
 library(tidyverse)
 write.table(df, '01_data_set_new.tsv', sep='\t', quote=FALSE, row.names=FALSE)
+
 write_tsv(df, '01_data_set_new.tsv')
 
 # Using the data.table package
