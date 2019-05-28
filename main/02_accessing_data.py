@@ -2,6 +2,7 @@
 # Using the pandas package
 import pandas as pd
 df['Name'] # column one ('Name')
+
 df.Name # column one ('Name')
 
 
@@ -15,7 +16,11 @@ df.loc[0] # first row
 # Using the pandas package
 import pandas as pd
 df['Name'][0] # cell in column one ('Name'), row one ['Alfred']
+
 df.loc[0, 'Name'] # cell in row one, column one ('Name') ['Alfred']
+
 df.at[0, 'Name'] # cell in row one, column one ('Name') ['Alfred']
+
 df.iloc[0, 0] # cell in row one, column one ('Name') ['Alfred']
+
 df.iat[0, 0] # cell in row one, column one ('Name') ['Alfred']
