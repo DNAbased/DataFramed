@@ -11,3 +11,7 @@ DONE - Accessing columns/rows/cells(values)
 DONE - Adding new data
 - Merging dataframes (simple binding or specific joining)
 - Replacing data
+
+Total: 13
+Done:  3
+Todo:  10
