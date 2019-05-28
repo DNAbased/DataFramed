@@ -8,6 +8,6 @@ DONE - Accessing columns/rows/cells(values)
 - Functions
 - Filtering data
 - Remove data (filtering duplicate?)
-- Adding new data
+DONE - Adding new data
 - Merging dataframes (simple binding or specific joining)
 - Replacing data
