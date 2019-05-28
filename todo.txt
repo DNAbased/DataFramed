@@ -7,7 +7,7 @@ DONE - Accessing columns/rows/cells(values)
 - If-else if/elif-else
 - Functions
 - Filtering data
-- Remove data (filtering duplicate?)
+- Remove data (duplicate of filtering data?)
 DONE - Adding new data
 - Merging dataframes (simple binding or specific joining)
 - Replacing data
