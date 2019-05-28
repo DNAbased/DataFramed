@@ -10,3 +10,4 @@ DONE - Accessing columns/rows/cells(values)
 - Remove data (filtering duplicate?)
 - Adding new data
 - Merging dataframes (simple binding or specific joining)
+- Replacing data
