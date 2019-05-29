@@ -5,7 +5,7 @@ df['Name'] = ['Argon', 'Balloon', 'Chess', 'Duck', 'Exit']
 df.Name = ['Argon', 'Balloon', 'Chess', 'Duck', 'Exit']
 
 
-## Replacing on row
+## Replacing one row
 # Using pandas
 import pandas as pd
 df.loc[0] = [1, False, 'Argon', 'No'] # not recommended # need to know the exact order of columns
