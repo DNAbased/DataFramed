@@ -2,7 +2,9 @@
 # Using base and/or tidyverse functions
 library(tidyverse)
 df$Name = c('Argon', 'Balloon', 'Chess', 'Duck', 'Exit')
+
 df[, 1] = c('Argon', 'Balloon', 'Chess', 'Duck', 'Exit')
+
 df[[1]] = c('Argon', 'Balloon', 'Chess', 'Duck', 'Exit')
 
 
@@ -22,4 +24,5 @@ dt[, Name := namelist]
 # Using base and/or tidyverse functions
 library(tidyverse)
 df$Name[1] = 'Argon'
+
 df[1, 1] = 'Argon'
