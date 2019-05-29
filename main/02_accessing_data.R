@@ -15,6 +15,7 @@ df[1, ] # row one # basically row one, all columns
 
 # Using the data.table (DT) package
 library(data.table)
+dt[, Name]
 first(dt) # only works for first row
 last(dt) # only works for last row
 
