@@ -8,7 +8,7 @@ df.Name = ['Argon', 'Balloon', 'Chess', 'Duck', 'Exit']
 ## Replacing one row
 # Using pandas
 import pandas as pd
-df.loc[0] = [1, False, 'Argon', 'No'] # not recommended # need to know the exact order of columns
+df.loc[0] = ['Argon', 1, 'No', False] # not recommended # need to know the exact order of columns
 
 
 ## Replacing a single cell
