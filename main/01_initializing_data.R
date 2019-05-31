@@ -1,14 +1,14 @@
 ## Creating a data set
 # Using base and/or tidyverse functions
 library(tidyverse)
-df <- data.frame('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'), 
+df = data.frame('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'), 
                  'Age' = c(99, 50, 30, 20, 0), 
                  'Random' = c('Yes', 'No', 'Yes', 'No', 'No'), 
                  'Interesting' = c(TRUE, TRUE, FALSE, FALSE, TRUE))
 
 # Using the data.table (DT) package
 library(data.table)
-dt <- data.table('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'), 
+dt = data.table('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'), 
             'Age' = c(99, 50, 30, 20, 0),
             'Random' = c('Yes', 'No', 'Yes', 'No', 'No'), 
             'Interesting' = c(TRUE, TRUE, FALSE, FALSE, TRUE))
@@ -17,13 +17,13 @@ dt <- data.table('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'),
 ## Reading in data
 # Using base and/or tidyverse functions
 library(tidyverse)
-df <- read.delim('01_data_set.tsv')
+df = read.delim('01_data_set.tsv')
 
-df <- read_tsv('01_data_set.tsv')
+df = read_tsv('01_data_set.tsv')
 
 # Using the data.table package
 library(data.table)
-dt <- fread('01_data_set.tsv')
+dt = fread('01_data_set.tsv')
 
 
 ## Writing data
