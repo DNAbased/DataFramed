@@ -11,10 +11,10 @@ df = pd.DataFrame(dict)
 ## Reading in data
 # Using pandas
 import pandas as pd
-df = pd.read_csv('01_data_set.tsv', sep='\t')
+df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 
 
 ## Writing data
 # Using pandas
 import pandas as pd
-df.to_csv('01_data_set_new.tsv', sep='\t', index=False)
+df.to_csv('00_py_data_set_new.tsv', sep='\t', index=False)
