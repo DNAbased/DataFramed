@@ -1,7 +1,7 @@
 ## DataFramed
 
-Python? R? Both?
-Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse/data.table).
+Python? R? Both?<br>
+Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse/data.table).<br>
 Mainly for working with dataframes.
 
 
