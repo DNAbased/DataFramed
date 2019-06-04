@@ -1,9 +1,9 @@
 ## DataFramed
 
 Python? R? Both?
-Contrasts some oft-used relevant commands (Python's pandas//R's base/tidyverse/data.table).
+Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse/data.table).
+Mainly for working with dataframes.
 
-[Jekyll Theme](https://jekyllrb.com/)
 
 ### Work in progress
 
@@ -29,6 +29,6 @@ Work in progress
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-### Work in progress
-
 [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
+
+Theme by [Jekyll Theme](https://jekyllrb.com/)
