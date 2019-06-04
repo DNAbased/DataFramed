@@ -5,7 +5,7 @@ Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse
 Mainly for working with dataframes.
 
 
-### Work in progress
+### Note: this is a work in progress
 
 Work in progress
 
