@@ -1,11 +1,18 @@
-## DataFramed
+### DataFramed
 
 Python? R? Both?<br>
 Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse/data.table).<br>
 Mainly for working with dataframes.
 
+# Used Python packages
+- pandas
+- 
 
-### Note: this is a work in progress
+# Used R packages
+- tidyverse
+- 
+
+## Note: this is a work in progress
 
 Work in progress
 
