@@ -1,7 +1,7 @@
 # DataFramed
 
 Python? R? Both?<br>
-Contrasts some oft-used relevant commands (Python's pandas // R's base/tidyverse/data.table).<br>
+Contrasts some oft-used relevant commands from the two.<br>
 Mainly for working with dataframes.
 
 ## Used Python packages
