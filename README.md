@@ -9,7 +9,8 @@ Mainly for working with dataframes.
 - 
 
 ## Used R packages
-- tidyverse
+- tidyverse (i.e. dplyr, ggplot2, margrittr...)
+- data.table
 - 
 
 ## Note: this is a work in progress
