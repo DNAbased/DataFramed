@@ -1,7 +1,5 @@
 ![Logo](https://raw.githubusercontent.com/DNAbased/DataFramed/master/images/dfed_10.png)
 
-# DataFramed
-
 Python? R? Both?<br>
 Contrasts some oft-used relevant commands from the two.<br>
 Mainly for working with dataframes.
