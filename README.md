@@ -8,6 +8,7 @@ Mainly for working with dataframes.
 - pandas
 - matplotlib
 - seaborn
+- 
 
 ## Used R packages
 - tidyverse (i.e. dplyr, ggplot2, margrittr...)
