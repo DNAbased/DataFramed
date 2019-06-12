@@ -1,5 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/DNAbased/DataFramed/master/images/dfed_10.png)
 
+# Version 0.0a
+
 Python? R? Both?<br>
 Contrasts some oft-used relevant commands from the two.<br>
 Mainly for working with dataframes.
@@ -21,10 +23,6 @@ Work in progress
 
 ```markdown
 Work in progress
-
-# One
-## Two
-### Three
 
 1. One
 2. Two
