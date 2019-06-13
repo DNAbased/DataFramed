@@ -19,8 +19,6 @@ Mainly for working with dataframes.
 
 ## Note: this is a work in progress
 
-Work in progress
-
 ```markdown
 Work in progress
 
@@ -32,9 +30,9 @@ Work in progress
 [Link](url) and ![Image](src)
 ```
 
-[Markdown](https://guides.github.com/features/mastering-markdown/)
+[Markdown information](https://guides.github.com/features/mastering-markdown/)
 
-[GitHub Pages](https://help.github.com/categories/github-pages-basics/)
+Powered by [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
 Theme by [Jekyll Theme](https://jekyllrb.com/)
 
