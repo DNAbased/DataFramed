@@ -1,6 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/DNAbased/DataFramed/master/images/dfed_10.png)
 
-# Version 0.0a
+# Version 0.1
 
 Python? R? Both?<br>
 Contrasts some oft-used relevant commands from the two.<br>
