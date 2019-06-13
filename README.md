@@ -13,7 +13,7 @@ Mainly for working with dataframes.
 - 
 
 ## Used R packages
-- tidyverse (i.e. dplyr, ggplot2, margrittr...)
+- tidyverse (i.e. dplyr, ggplot2, magrittr...)
 - data.table
 - 
 
