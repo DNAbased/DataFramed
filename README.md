@@ -19,10 +19,6 @@ Mainly for working with dataframes.
 
 ## Note: this is a work in progress
 
-<script src="https://gist.github.com/DNAbased/2ef5e5f71704b733c4e1b9472404fb4b.js"></script>
-
-{% gist 2ef5e5f71704b733c4e1b9472404fb4b %}
-
 ```markdown
 Work in progress
 
