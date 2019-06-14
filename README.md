@@ -19,6 +19,13 @@ Mainly for working with dataframes.
 
 ## Note: this is a work in progress
 
+```python
+import this
+x = 1
+if x:
+  1
+```
+
 ```markdown
 Work in progress
 
