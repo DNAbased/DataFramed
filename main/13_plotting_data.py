@@ -15,7 +15,6 @@ bar_data = pd.DataFrame(scatter_data['Random']).reset_index()
 histo_data = scatter_data
 box_data = scatter_data
 line_data = scatter_data
-pie_data = 0
 
 ## Plotting Data
 # Using Seaborn
@@ -54,6 +53,3 @@ fig, ax = plt.subplots()
 ax = sns.lineplot(data=line_data, x=range(len(line_data)), y='Values', hue='Random')
 ax.set(xlabel='#', ylabel='Value')
 fig.savefig('line_plot.png')
-
-# pie_chart # but remember: pie charts are bad!
-# no pie charts in Seaborn (0.9)
