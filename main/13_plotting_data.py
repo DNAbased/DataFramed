@@ -10,6 +10,7 @@ for i in range(100):
     randoms.append(choice(['Yes', 'No']))
 
 dict = {'Values': numbers, 'Random': randoms}
+
 scatter_data = pd.DataFrame(dict).sort_values(by='Values').reset_index()
 bar_data = pd.DataFrame(scatter_data['Random']).reset_index()
 histo_data = scatter_data
@@ -20,6 +21,7 @@ line_data = scatter_data
 # Using Seaborn
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 # scatter_plot
 sns.set()
 fig, ax = plt.subplots()
