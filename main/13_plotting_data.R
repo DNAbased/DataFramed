@@ -13,6 +13,7 @@ line_data = scatter_data
 ## Plotting data
 # Using base and/or tidyverse functions
 library(tidyverse)
+
 # scatter_plot
 ggplot(scatter_data) + 
   geom_point(aes(x=seq_along(Values), y=Values, colour=Random)) + 
