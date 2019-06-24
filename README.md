@@ -41,5 +41,3 @@ Powered by [GitHub Pages](https://help.github.com/categories/github-pages-basics
 Theme by [Jekyll Theme](https://jekyllrb.com/)
 
 [comment]: # (Comment test)
-
-[Test](https://raw.githubusercontent.com/DNAbased/DataFramed/master/main/00_R_data_set.tsv)
