@@ -13,7 +13,7 @@ Mainly for working with dataframes.
 - seaborn
 - 
 
-## Used R packages
+## R
 - R 3.4.0
 - tidyverse (i.e. dplyr, ggplot2, magrittr...)
 - data.table
