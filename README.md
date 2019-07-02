@@ -7,14 +7,14 @@ Contrasts some oft-used relevant commands from the two.<br>
 Mainly for working with dataframes.
 
 ## Python
-- version 3.7.3
+- Python 3.7.3
 - pandas
 - matplotlib
 - seaborn
 - 
 
 ## Used R packages
-- version 3.4.0
+- R 3.4.0
 - tidyverse (i.e. dplyr, ggplot2, magrittr...)
 - data.table
 - 
