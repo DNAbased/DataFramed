@@ -1,27 +1,33 @@
 ![Logo](https://raw.githubusercontent.com/DNAbased/DataFramed/master/images/dfed_10.png)
 
-# Version 0.1
+# Version 0.1 (see projects)
 
 Python? R? Both?<br>
 Contrasts some oft-used relevant commands from the two.<br>
 Mainly for working with dataframes.
 
-## Used Python packages
+## Python
+- Python 3.7.3
 - pandas
 - matplotlib
 - seaborn
 - 
 
-## Used R packages
+## R
+- R 3.4.0
 - tidyverse (i.e. dplyr, ggplot2, magrittr...)
 - data.table
 - 
 
 ## Note: this is a work in progress
+At some point, the main/ parts will be included here (hopefully).
+
+```python
+# test
+import this
+```
 
 ```markdown
-Work in progress
-
 1. One
 2. Two
 

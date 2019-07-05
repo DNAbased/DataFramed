@@ -10,17 +10,18 @@ for i in range(100):
     randoms.append(choice(['Yes', 'No']))
 
 dict = {'Values': numbers, 'Random': randoms}
+
 scatter_data = pd.DataFrame(dict).sort_values(by='Values').reset_index()
 bar_data = pd.DataFrame(scatter_data['Random']).reset_index()
 histo_data = scatter_data
 box_data = scatter_data
 line_data = scatter_data
-pie_data = 0
 
 ## Plotting Data
 # Using Seaborn
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 # scatter_plot
 sns.set()
 fig, ax = plt.subplots()
@@ -54,6 +55,3 @@ fig, ax = plt.subplots()
 ax = sns.lineplot(data=line_data, x=range(len(line_data)), y='Values', hue='Random')
 ax.set(xlabel='#', ylabel='Value')
 fig.savefig('line_plot.png')
-
-# pie_chart # but remember: pie charts are bad!
-# no pie charts in Seaborn (0.9)
