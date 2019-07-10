@@ -25,10 +25,6 @@ Mainly for working with dataframes.
 - CSV
 - 
 
-| Python | R | Julia |
-| --- | --- | --- |
-| a | b | c |
-
 ## Note: this is a work in progress
 At some point, the main/ parts will be included here (hopefully).
 
