@@ -2,8 +2,8 @@
 
 # Version 0.1 (see projects)
 
-Python? R? Both?<br>
-Contrasts some oft-used relevant commands from the two.<br>
+Python? R? Julia?<br>
+Contrasts some oft-used relevant commands from these languages.<br>
 Mainly for working with dataframes.
 
 ## Python
@@ -17,6 +17,12 @@ Mainly for working with dataframes.
 - R 3.4.0
 - tidyverse (i.e. dplyr, ggplot2, magrittr...)
 - data.table
+- 
+
+## Julia
+- Julia 1.1.1
+- DataFrames
+- CSV
 - 
 
 ## Note: this is a work in progress
