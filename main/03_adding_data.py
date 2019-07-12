@@ -1,5 +1,5 @@
 ## Adding a single column
-# Using pandas
+# pandas
 import pandas as pd
 df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 city = ['Bonn', 'London', 'Toronto', 'Quito', 'Reykjavik'] # new column to be added
@@ -11,7 +11,7 @@ df.insert(4, 'City', city) # insert city as new column to position 4 # note: hap
 
 
 ## Adding a single row
-# Using pandas
+# pandas
 import pandas as pd
 df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 dict = {'Name': 'Fabulous', 'Age': 71, 'Random': 'Yes', 'Interesting': True} # dictionary of new row

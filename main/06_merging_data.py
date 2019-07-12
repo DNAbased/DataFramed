@@ -1,5 +1,5 @@
 ## Adding new observations
-# Using pandas
+# pandas
 import pandas as pd
 df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 dict2 = {'Name': ['Fabulous', 'Git', 'Hub'],
@@ -13,7 +13,7 @@ df = pd.concat([df, df2], ignore_index=True) # alternative
 
 
 ## Adding new variables (left join)
-# Using pandas
+# pandas
 import pandas as pd
 df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 dict2 = {'Name': ['Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'],

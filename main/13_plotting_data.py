@@ -1,5 +1,5 @@
 ## Creating plotting data
-# Using Pandas
+# Pandas
 from random import randint, choice, seed
 import pandas as pd
 numbers = []
@@ -18,7 +18,7 @@ box_data = scatter_data
 line_data = scatter_data
 
 ## Plotting Data
-# Using Seaborn
+# Seaborn
 import seaborn as sns
 import matplotlib.pyplot as plt
 

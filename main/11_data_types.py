@@ -12,7 +12,7 @@ str(1) # '1'
 bool(0) # False
 
 ## Data types in columns
-# Using pandas
+# pandas
 import pandas as pd
 df = pd.read_csv('00_py_data_set.tsv', sep='\t')
 df.dtypes # shows the type for each column
