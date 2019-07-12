@@ -1,5 +1,5 @@
 ## Adding new observations
-# Using base and/or tidyverse functions
+# base and/or tidyverse
 library(tidyverse)
 df = read_tsv('00_R_data_set.tsv')
 df2 = data.frame('Name' = c('Fabulous', 'Git', 'Hub'),
@@ -8,7 +8,7 @@ df2 = data.frame('Name' = c('Fabulous', 'Git', 'Hub'),
                  'Interesting' = c(TRUE, FALSE, FALSE))
 df = rbind(df, df2)
 
-# Using the data.table(DT) package
+# data.table
 library(data.table)
 dt = fread('00_R_data_set.tsv')
 dt2 = data.table('Name' = c('Fabulous', 'Git', 'Hub'),
@@ -19,14 +19,14 @@ dt = rbindlist(list(dt, dt2), use.names=TRUE, fill=TRUE, idcol=NULL)
 
 
 ## Adding new variables (left join)
-# Using base and/or tidyverse functions
+# base and/or tidyverse
 library(tidyverse)
 df = read_tsv('00_R_data_set.tsv')
 df2 = data.frame('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'),
                  'City' = c('Bonn', 'London', 'Toronto', 'Quito', 'Reykjavik'))
 df %>% inner_join(df2, by = 'Name')
 
-# Using the data.table(DT) package
+# data.table
 library(data.table)
 dt = fread('00_R_data_set.tsv')
 dt2 = data.table('Name' = c('Alfred', 'Batman', 'Charlie', 'Delta', 'Echo'),

@@ -13,7 +13,7 @@ as.logical(0) # false
 as.factor(1) # 1; levels: 1
 
 ## Data types in columns
-# Using base and/or tidyverse functions
+# base and/or tidyverse
 library(tidyverse)
 df = read_tsv('00_R_data_set.tsv')
 str(df) # get info one data types

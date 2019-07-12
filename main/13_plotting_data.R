@@ -1,5 +1,5 @@
 ## Creating plotting data
-# Using base and/or tidyverse functions
+# base and/or tidyverse
 library(tidyverse)
 set.seed(65536)
 scatter_data = arrange(data.frame(Values = round(runif(100)*100), 
@@ -11,7 +11,7 @@ box_data = scatter_data
 line_data = scatter_data
 
 ## Plotting data
-# Using base and/or tidyverse functions
+# base and/or tidyverse
 library(tidyverse)
 
 # scatter_plot
