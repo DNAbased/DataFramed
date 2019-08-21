@@ -1,11 +1,11 @@
 ## Accessing a single column
-# DataFrames
+# DataFrames, CSV
 using DataFrames, CSV
 df.Name # column one ('Name')
 df[1] # column one ('Name')
 
 ## Accessing a single row
-# DataFrames
+# DataFrames, CSV
 using DataFrames, CSV
 df[1, :] # first row
 
@@ -14,7 +14,7 @@ last(df) # only works for last row
 
 
 ## Accessing a single cell
-# DataFrames
+# DataFrames, CSV
 using DataFrames, CSV
 
 df.Name[1] # cell in column one ('Name'), row one ['Alfred']
