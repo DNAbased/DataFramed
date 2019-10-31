@@ -2,6 +2,8 @@
 
 # Version 0.1 (see projects)
 
+Mainly just for me tinkering around.
+
 Python? R? Julia?<br>
 Contrasts some oft-used relevant commands from these languages.<br>
 Mainly for working with dataframes.
